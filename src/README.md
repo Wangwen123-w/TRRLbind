@@ -30,4 +30,4 @@ cd ./src/
 python training.py
 ```
 ### contact
-Wenjun Wang：2087707058@qq.com
+Wenjun Wang：wangwen66111jun@163.com
